@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+}
+
+#grid-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 960px;
+    height: 100dvh;
+    max-width: 960px;
+    max-height: 100dvh;
+    margin: auto;
+}
+
+.grid {
+    border: 1px solid black;
+}
