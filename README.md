@@ -1,3 +1,3 @@
-# etch-a-sketch
+# Etch-a-sketch
 
-Creating an Etch a Sketch website 
+A basic Etch-A-Sketch Website, hover your mouse on the grid to create a sketch that has random colors
