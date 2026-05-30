@@ -15,7 +15,6 @@ dimBtn.addEventListener("click", (event) =>  {
     while (container.firstChild) {
         container.removeChild(container.firstChild);
     };
-    
     createGrid(dimension);
 });
 
@@ -36,7 +35,6 @@ const createGrid = (dimension) => {
             } else {
                 grid.setAttribute("style", `width: ${500 / dimension}px; height: ${500  / dimension}px`)
             }
-            
             gridRow.appendChild(grid);
         }
     };
